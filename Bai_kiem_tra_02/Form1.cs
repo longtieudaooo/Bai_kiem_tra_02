@@ -6,5 +6,10 @@ namespace Bai_kiem_tra_02
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
